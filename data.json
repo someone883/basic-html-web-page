@@ -1,8 +1,4 @@
-[{
-    "id": "windowsil",
-    "duration": "15"
-},
 {
-    "id": "bedroom",
-    "duration": "30"
-}]
+    "windowsil": "15",
+    "bedroom": "30"
+}
